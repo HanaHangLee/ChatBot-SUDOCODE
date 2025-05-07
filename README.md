@@ -21,6 +21,8 @@ See `requirements.txt` and Docker configuration for setup instructions.
 👩‍💻 **Program**: Women Techmakers – Data Scientist Apprenticeship
 
 ### 🔧 Architecture Highlights
+![image](https://github.com/user-attachments/assets/0048f248-6492-4cdb-a62d-5baf0c6b5451)
+
 
 - **Data Ingestion & Embedding**:
     
